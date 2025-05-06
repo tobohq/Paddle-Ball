@@ -1,0 +1,37 @@
+# ninja log v6
+0	12	1745856041300994704	flac-populate-prefix/src/flac-populate-stamp/flac-populate-mkdir	5406f7aac02a0f4e
+12	1966	1745856043254509557	flac-populate-prefix/src/flac-populate-stamp/flac-populate-download	623e97109db861e7
+12	1966	1745856043254509557	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-download	623e97109db861e7
+1	53	1745856740409424233	flac-populate-prefix/src/flac-populate-stamp/flac-populate-update	9de0f2f7bab270a6
+1	53	1745856740409424233	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-update	9de0f2f7bab270a6
+77	91	1745856740498824000	flac-populate-prefix/src/flac-populate-stamp/flac-populate-configure	5f2bf18f75381f14
+53	77	1745856740484248000	flac-populate-prefix/src/flac-populate-stamp/flac-populate-patch	82e106b9d9f2d035
+0	12	1745856041300994704	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-mkdir	5406f7aac02a0f4e
+53	77	1745856740484248000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-patch	82e106b9d9f2d035
+77	91	1745856740498824000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-configure	5f2bf18f75381f14
+91	103	1745856740511172000	flac-populate-prefix/src/flac-populate-stamp/flac-populate-build	d09587232963e672
+104	118	1745856740525836000	flac-populate-prefix/src/flac-populate-stamp/flac-populate-install	8c326d145d06164d
+130	149	1745856740557234000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/flac-subbuild/CMakeFiles/flac-populate-complete	c675af21f530c208
+118	130	1745856740537781000	flac-populate-prefix/src/flac-populate-stamp/flac-populate-test	200cb89d6635d272
+118	130	1745856740537781000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-test	200cb89d6635d272
+104	118	1745856740525836000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-install	8c326d145d06164d
+130	149	1745856740557234000	CMakeFiles/flac-populate-complete	c675af21f530c208
+130	149	1745856740557234000	flac-populate-prefix/src/flac-populate-stamp/flac-populate-done	c675af21f530c208
+91	103	1745856740511172000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-build	d09587232963e672
+130	149	1745856740557234000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-done	c675af21f530c208
+1	34	1745945004429511185	flac-populate-prefix/src/flac-populate-stamp/flac-populate-update	9de0f2f7bab270a6
+1	34	1745945004429511185	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-update	9de0f2f7bab270a6
+34	46	1745945004474264000	flac-populate-prefix/src/flac-populate-stamp/flac-populate-patch	82e106b9d9f2d035
+34	46	1745945004474264000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-patch	82e106b9d9f2d035
+46	55	1745945004483675000	flac-populate-prefix/src/flac-populate-stamp/flac-populate-configure	5f2bf18f75381f14
+46	55	1745945004483675000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-configure	5f2bf18f75381f14
+55	64	1745945004492378000	flac-populate-prefix/src/flac-populate-stamp/flac-populate-build	d09587232963e672
+55	64	1745945004492378000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-build	d09587232963e672
+64	72	1745945004500816000	flac-populate-prefix/src/flac-populate-stamp/flac-populate-install	8c326d145d06164d
+64	72	1745945004500816000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-install	8c326d145d06164d
+72	81	1745945004509291000	flac-populate-prefix/src/flac-populate-stamp/flac-populate-test	200cb89d6635d272
+72	81	1745945004509291000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-test	200cb89d6635d272
+81	93	1745945004521376000	CMakeFiles/flac-populate-complete	c675af21f530c208
+81	93	1745945004521376000	flac-populate-prefix/src/flac-populate-stamp/flac-populate-done	c675af21f530c208
+81	93	1745945004521376000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/flac-subbuild/CMakeFiles/flac-populate-complete	c675af21f530c208
+81	93	1745945004521376000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-done	c675af21f530c208

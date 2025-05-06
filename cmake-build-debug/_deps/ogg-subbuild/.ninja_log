@@ -1,0 +1,37 @@
+# ninja log v6
+0	23	1745856038622429441	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-mkdir	ebbac5091659d265
+64	76	1745856740284661000	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-configure	2aa92e4310379d80
+117	137	1745856740344851000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-done	51793880d1307c1c
+0	47	1745856740209785913	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-update	7bb6020517c60bdf
+23	1155	1745856039755045252	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-download	18835a835f656a87
+0	47	1745856740209785913	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-update	7bb6020517c60bdf
+0	23	1745856038622429441	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-mkdir	ebbac5091659d265
+23	1155	1745856039755045252	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-download	18835a835f656a87
+64	76	1745856740284661000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-configure	2aa92e4310379d80
+105	117	1745856740326051000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-test	6db1f4fae1f2f4c1
+76	87	1745856740295970000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-build	b96c3364bb20bd14
+117	137	1745856740344851000	CMakeFiles/ogg-populate-complete	51793880d1307c1c
+87	105	1745856740313358000	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-install	6553101e8ca5bd35
+117	137	1745856740344851000	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-done	51793880d1307c1c
+105	117	1745856740326051000	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-test	6db1f4fae1f2f4c1
+117	137	1745856740344851000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/ogg-subbuild/CMakeFiles/ogg-populate-complete	51793880d1307c1c
+87	105	1745856740313358000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-install	6553101e8ca5bd35
+47	64	1745856740272564000	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-patch	dae5705cdd33b7e6
+47	64	1745856740272564000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-patch	dae5705cdd33b7e6
+76	87	1745856740295970000	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-build	b96c3364bb20bd14
+0	35	1745945004256942362	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-update	7bb6020517c60bdf
+0	35	1745945004256942362	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-update	7bb6020517c60bdf
+35	47	1745945004302725000	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-patch	dae5705cdd33b7e6
+35	47	1745945004302725000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-patch	dae5705cdd33b7e6
+47	60	1745945004314869000	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-configure	2aa92e4310379d80
+47	60	1745945004314869000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-configure	2aa92e4310379d80
+60	70	1745945004326901000	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-build	b96c3364bb20bd14
+60	70	1745945004326901000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-build	b96c3364bb20bd14
+70	80	1745945004336558000	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-install	6553101e8ca5bd35
+70	80	1745945004336558000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-install	6553101e8ca5bd35
+80	92	1745945004348628000	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-test	6db1f4fae1f2f4c1
+80	92	1745945004348628000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-test	6db1f4fae1f2f4c1
+92	105	1745945004361752000	CMakeFiles/ogg-populate-complete	51793880d1307c1c
+92	105	1745945004361752000	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-done	51793880d1307c1c
+92	105	1745945004361752000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/ogg-subbuild/CMakeFiles/ogg-populate-complete	51793880d1307c1c
+92	105	1745945004361752000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-done	51793880d1307c1c

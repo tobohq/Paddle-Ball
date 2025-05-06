@@ -1,0 +1,37 @@
+# ninja log v6
+1	48	1745856739946000106	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	5a45ede325d4ac78
+10	10844	1745856037541440060	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	2a30ba8fa323fd1c
+132	143	1745856740087697000	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	4d5848e69b864531
+143	154	1745856740098912000	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	9d7d40a7f55fd51c
+143	154	1745856740098912000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	9d7d40a7f55fd51c
+114	132	1745856740076656000	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	6f7e9873bbb10376
+0	10	1745856026708137376	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	e4e53953a63bdd31
+164	182	1745856740126903000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate-complete	ba2ff2961e73f330
+48	114	1745856740057425000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	dab712f6ebdc3c0a
+164	182	1745856740126903000	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	ba2ff2961e73f330
+48	114	1745856740057425000	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	dab712f6ebdc3c0a
+10	10844	1745856037541440060	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	2a30ba8fa323fd1c
+154	164	1745856740109159000	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	8217ec6866c75615
+114	132	1745856740076656000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	6f7e9873bbb10376
+154	164	1745856740109159000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	8217ec6866c75615
+164	182	1745856740126903000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	ba2ff2961e73f330
+164	182	1745856740126903000	CMakeFiles/freetype-populate-complete	ba2ff2961e73f330
+1	48	1745856739946000106	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	5a45ede325d4ac78
+0	10	1745856026708137376	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	e4e53953a63bdd31
+132	143	1745856740087697000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	4d5848e69b864531
+0	36	1745945004074248092	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	5a45ede325d4ac78
+0	36	1745945004074248092	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	5a45ede325d4ac78
+36	48	1745945004121165000	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	dab712f6ebdc3c0a
+36	48	1745945004121165000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	dab712f6ebdc3c0a
+48	59	1745945004131947000	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	6f7e9873bbb10376
+48	59	1745945004131947000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	6f7e9873bbb10376
+59	75	1745945004147959000	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	4d5848e69b864531
+59	75	1745945004147959000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	4d5848e69b864531
+75	88	1745945004160325000	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	9d7d40a7f55fd51c
+75	88	1745945004160325000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	9d7d40a7f55fd51c
+88	100	1745945004173650000	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	8217ec6866c75615
+88	100	1745945004173650000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	8217ec6866c75615
+100	115	1745945004188646000	CMakeFiles/freetype-populate-complete	ba2ff2961e73f330
+100	115	1745945004188646000	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	ba2ff2961e73f330
+100	115	1745945004188646000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate-complete	ba2ff2961e73f330
+100	115	1745945004188646000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	ba2ff2961e73f330

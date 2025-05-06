@@ -1,0 +1,37 @@
+# ninja log v6
+1	11	1745856003134447850	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	ea1c304298661cda
+11	22478	1745856025600565225	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	d9f9a13562daa943
+1	11	1745856003134447850	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	ea1c304298661cda
+116	126	1745856739609645000	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	ef2728b0b99692c8
+88	105	1745856739588576000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	34246d0206e54e84
+64	76	1745856739559844000	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	21fd6108587db9cd
+11	22478	1745856025600565225	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	d9f9a13562daa943
+0	64	1745856739484677087	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	402c25b91fdc98e7
+64	76	1745856739559844000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	21fd6108587db9cd
+0	64	1745856739484677087	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	402c25b91fdc98e7
+88	105	1745856739588576000	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	34246d0206e54e84
+76	88	1745856739571321000	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	3ea326597cd14b80
+105	116	1745856739599644000	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	257405298e00d6c0
+76	88	1745856739571321000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	3ea326597cd14b80
+105	116	1745856739599644000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	257405298e00d6c0
+116	126	1745856739609645000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	ef2728b0b99692c8
+126	144	1745856739627487000	CMakeFiles/sfml-populate-complete	4ca9be859cb19571
+126	144	1745856739627487000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	4ca9be859cb19571
+126	144	1745856739627487000	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	4ca9be859cb19571
+126	144	1745856739627487000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	4ca9be859cb19571
+1	43	1745945003786613971	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	402c25b91fdc98e7
+1	43	1745945003786613971	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	402c25b91fdc98e7
+43	52	1745945003837706000	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	21fd6108587db9cd
+43	52	1745945003837706000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	21fd6108587db9cd
+52	61	1745945003846776000	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	3ea326597cd14b80
+52	61	1745945003846776000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	3ea326597cd14b80
+61	71	1745945003856599000	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	34246d0206e54e84
+61	71	1745945003856599000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	34246d0206e54e84
+71	80	1745945003865852000	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	257405298e00d6c0
+71	80	1745945003865852000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	257405298e00d6c0
+80	90	1745945003875225000	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	ef2728b0b99692c8
+80	90	1745945003875225000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	ef2728b0b99692c8
+90	103	1745945003888347000	CMakeFiles/sfml-populate-complete	4ca9be859cb19571
+90	103	1745945003888347000	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	4ca9be859cb19571
+90	103	1745945003888347000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	4ca9be859cb19571
+90	103	1745945003888347000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	4ca9be859cb19571

@@ -2,6 +2,7 @@
 #include <iostream>
 #include "ball.h"
 #include "Paddle.h"
+#include "SFML/Audio/Listener.hpp"
 
 int main()
 {
@@ -9,10 +10,9 @@ int main()
     window.setFramerateLimit(144);
 
     sf::Vector2u windowSize = window.getSize();
-    float x = windowSize.x / 2.0f; // gets centered x
-    float y = windowSize.y / 2.0f; // gets centered y
-
-    Ball ball(80, x, y);
+    Ball ball(80, windowSize.x / 2.0f, windowSize.y / 2.0f);
+    std::cout << windowSize.x << std::endl;
+    std::cout << windowSize.y << std::endl;
 
     while (window.isOpen())
     {
@@ -27,6 +27,7 @@ int main()
         window.clear();
 
         window.draw(ball);
+        ball.bounceBall(windowSize);
 
         window.display();
 

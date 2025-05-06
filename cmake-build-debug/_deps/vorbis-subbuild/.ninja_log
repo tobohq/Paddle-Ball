@@ -1,0 +1,37 @@
+# ninja log v6
+1	22	1745856048987442800	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-mkdir	35a3cde549a01fa8
+60	75	1745856740755765000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-patch	e9e099e37c0fc4b1
+0	60	1745856740681397386	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-update	23ce5a9a13fc88ef
+131	150	1745856740830798000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-done	9177d269cccd122
+22	3723	1745856052688409451	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-download	70498a2d862dc5ea
+22	3723	1745856052688409451	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-download	70498a2d862dc5ea
+75	89	1745856740769558000	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-configure	1c1860468290786c
+1	22	1745856048987442800	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-mkdir	35a3cde549a01fa8
+117	130	1745856740811228000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-test	4c1d63881760df58
+60	75	1745856740755765000	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-patch	e9e099e37c0fc4b1
+75	89	1745856740769558000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-configure	1c1860468290786c
+89	102	1745856740782888000	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-build	e3222ce88d4076e4
+102	117	1745856740797823000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-install	16a7c016361e5f27
+89	102	1745856740782888000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-build	e3222ce88d4076e4
+117	130	1745856740811228000	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-test	4c1d63881760df58
+131	150	1745856740830798000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate-complete	9177d269cccd122
+0	60	1745856740681397386	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-update	23ce5a9a13fc88ef
+131	150	1745856740830798000	CMakeFiles/vorbis-populate-complete	9177d269cccd122
+102	117	1745856740797823000	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-install	16a7c016361e5f27
+131	150	1745856740830798000	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-done	9177d269cccd122
+0	33	1745945004606058590	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-update	23ce5a9a13fc88ef
+0	33	1745945004606058590	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-update	23ce5a9a13fc88ef
+33	43	1745945004648777000	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-patch	e9e099e37c0fc4b1
+33	43	1745945004648777000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-patch	e9e099e37c0fc4b1
+43	52	1745945004657750000	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-configure	1c1860468290786c
+43	52	1745945004657750000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-configure	1c1860468290786c
+52	61	1745945004666818000	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-build	e3222ce88d4076e4
+52	61	1745945004666818000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-build	e3222ce88d4076e4
+61	71	1745945004676458000	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-install	16a7c016361e5f27
+61	71	1745945004676458000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-install	16a7c016361e5f27
+71	80	1745945004685370000	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-test	4c1d63881760df58
+71	80	1745945004685370000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-test	4c1d63881760df58
+80	92	1745945004697933000	CMakeFiles/vorbis-populate-complete	9177d269cccd122
+80	92	1745945004697933000	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-done	9177d269cccd122
+80	92	1745945004697933000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate-complete	9177d269cccd122
+80	92	1745945004697933000	/Users/jaycelopez/CLionProjects/Projects/Paddle Ball/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-done	9177d269cccd122
